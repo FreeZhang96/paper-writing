@@ -1,1 +1,3 @@
+  While the majority of tracking algorithms are based on 2D visual cues (hereafter referred to as RGB trackers), the recent surge in popularity of real-time RGB-D 
+sensors has encouraged research into com- bining colour and depth data for tracking.
 
